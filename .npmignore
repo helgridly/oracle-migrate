@@ -5,3 +5,4 @@ migrations*
 support
 test
 tests
+!migration*.js
