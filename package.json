@@ -27,8 +27,8 @@
   "author": "Oleh Chaplya",
   "license": "MIT",
   "dependencies": {
-    "oracledb": "^1.11.0",
-    "simple-oracledb": "^1.1.21",
+    "oracledb": "^4.0.0",
+    "simple-oracledb": "^1.4.2",
     "yargs": "^6.3.0"
   },
   "devDependencies": {
