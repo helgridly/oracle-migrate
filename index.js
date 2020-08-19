@@ -6,5 +6,6 @@ module.exports = {
   readConfig: tools.readConfig,
   performMigration: commands.performMigration,
   migrationHistory: commands.migrationHistory,
-  listLocalMigrations: commands.listLocalMigrations
+  listLocalMigrations: commands.listLocalMigrations,
+  prepareMigrationFolderStructure: commands.prepareMigrationFolderStructure
 };
